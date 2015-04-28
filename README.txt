@@ -1,5 +1,3 @@
-EPL371: Askisi 4
-
 USER GUIDE:
 
 	1. Compiling:
