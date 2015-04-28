@@ -41,5 +41,3 @@ USER GUIDE:
 			to inform the user.
 			if in get request dont give the specific file server
 			response with it works.
-			 
-	8. Conclusion:
